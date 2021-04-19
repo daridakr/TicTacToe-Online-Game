@@ -1,0 +1,84 @@
+C:\Учёба\SignalRTic-master\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Учёба\SignalRTic-master\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Учёба\SignalRTic-master\bin\Debug\netcoreapp3.1\libman.json
+C:\Учёба\SignalRTic-master\bin\Debug\netcoreapp3.1\TicTacToe.exe
+C:\Учёба\SignalRTic-master\bin\Debug\netcoreapp3.1\TicTacToe.deps.json
+C:\Учёба\SignalRTic-master\bin\Debug\netcoreapp3.1\TicTacToe.runtimeconfig.json
+C:\Учёба\SignalRTic-master\bin\Debug\netcoreapp3.1\TicTacToe.runtimeconfig.dev.json
+C:\Учёба\SignalRTic-master\bin\Debug\netcoreapp3.1\TicTacToe.dll
+C:\Учёба\SignalRTic-master\bin\Debug\netcoreapp3.1\TicTacToe.pdb
+C:\Учёба\SignalRTic-master\bin\Debug\netcoreapp3.1\TicTacToe.Views.dll
+C:\Учёба\SignalRTic-master\bin\Debug\netcoreapp3.1\TicTacToe.Views.pdb
+C:\Учёба\SignalRTic-master\obj\Debug\netcoreapp3.1\TicTacToe.AssemblyInfoInputs.cache
+C:\Учёба\SignalRTic-master\obj\Debug\netcoreapp3.1\TicTacToe.AssemblyInfo.cs
+C:\Учёба\SignalRTic-master\obj\Debug\netcoreapp3.1\TicTacToe.csproj.CoreCompileInputs.cache
+C:\Учёба\SignalRTic-master\obj\Debug\netcoreapp3.1\TicTacToe.MvcApplicationPartsAssemblyInfo.cache
+C:\Учёба\SignalRTic-master\obj\Debug\netcoreapp3.1\TicTacToe.RazorAssemblyInfo.cache
+C:\Учёба\SignalRTic-master\obj\Debug\netcoreapp3.1\TicTacToe.RazorAssemblyInfo.cs
+C:\Учёба\SignalRTic-master\obj\Debug\netcoreapp3.1\staticwebassets\TicTacToe.StaticWebAssets.Manifest.cache
+C:\Учёба\SignalRTic-master\obj\Debug\netcoreapp3.1\staticwebassets\TicTacToe.StaticWebAssets.xml
+C:\Учёба\SignalRTic-master\obj\Debug\netcoreapp3.1\scopedcss\bundle\TicTacToe.styles.css
+C:\Учёба\SignalRTic-master\obj\Debug\netcoreapp3.1\TicTacToe.TagHelpers.input.cache
+C:\Учёба\SignalRTic-master\obj\Debug\netcoreapp3.1\TicTacToe.TagHelpers.output.cache
+C:\Учёба\SignalRTic-master\obj\Debug\netcoreapp3.1\TicTacToe.RazorCoreGenerate.cache
+C:\Учёба\SignalRTic-master\obj\Debug\netcoreapp3.1\Razor\Pages\Game.cshtml.g.cs
+C:\Учёба\SignalRTic-master\obj\Debug\netcoreapp3.1\Razor\Pages\Index.cshtml.g.cs
+C:\Учёба\SignalRTic-master\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_Layout.cshtml.g.cs
+C:\Учёба\SignalRTic-master\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Учёба\SignalRTic-master\obj\Debug\netcoreapp3.1\Razor\Pages\Watch.cshtml.g.cs
+C:\Учёба\SignalRTic-master\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewImports.cshtml.g.cs
+C:\Учёба\SignalRTic-master\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewStart.cshtml.g.cs
+C:\Учёба\SignalRTic-master\obj\Debug\netcoreapp3.1\TicTacToe.RazorTargetAssemblyInfo.cache
+C:\Учёба\SignalRTic-master\obj\Debug\netcoreapp3.1\TicTacToe.RazorTargetAssemblyInfo.cs
+C:\Учёба\SignalRTic-master\obj\Debug\netcoreapp3.1\TicTacToe.Views.pdb
+C:\Учёба\SignalRTic-master\obj\Debug\netcoreapp3.1\TicTacToe.dll
+C:\Учёба\SignalRTic-master\obj\Debug\netcoreapp3.1\TicTacToe.pdb
+C:\Учёба\SignalRTic-master\obj\Debug\netcoreapp3.1\TicTacToe.genruntimeconfig.cache
+C:\Учёба\SignalRTic-master\obj\Debug\netcoreapp3.1\TicTacToe.csproj.CopyComplete
+C:\Учёба\SignalRTic-master\obj\Debug\netcoreapp3.1\Razor\Pages\NewGame.cshtml.g.cs
+C:\Учёба\SignalRTic-master\obj\Debug\netcoreapp3.1\TicTacToe.csprojAssemblyReference.cache
+C:\Учёба\SignalRTic-master\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Учёба\SignalRTic-master\bin\Debug\netcoreapp3.1\System.Net.WebSockets.WebSocketProtocol.dll
+C:\Учёба\SignalRTic-master\obj\Debug\netcoreapp3.1\Razor\Pages\JoinGame.cshtml.g.cs
+C:\Учёба\TicTacToe — копия\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Учёба\TicTacToe — копия\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Учёба\TicTacToe — копия\bin\Debug\netcoreapp3.1\libman.json
+C:\Учёба\TicTacToe — копия\bin\Debug\netcoreapp3.1\TicTacToe.exe
+C:\Учёба\TicTacToe — копия\bin\Debug\netcoreapp3.1\TicTacToe.deps.json
+C:\Учёба\TicTacToe — копия\bin\Debug\netcoreapp3.1\TicTacToe.runtimeconfig.json
+C:\Учёба\TicTacToe — копия\bin\Debug\netcoreapp3.1\TicTacToe.runtimeconfig.dev.json
+C:\Учёба\TicTacToe — копия\bin\Debug\netcoreapp3.1\TicTacToe.dll
+C:\Учёба\TicTacToe — копия\bin\Debug\netcoreapp3.1\TicTacToe.pdb
+C:\Учёба\TicTacToe — копия\bin\Debug\netcoreapp3.1\TicTacToe.Views.dll
+C:\Учёба\TicTacToe — копия\bin\Debug\netcoreapp3.1\TicTacToe.Views.pdb
+C:\Учёба\TicTacToe — копия\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Учёба\TicTacToe — копия\bin\Debug\netcoreapp3.1\System.Net.WebSockets.WebSocketProtocol.dll
+C:\Учёба\TicTacToe — копия\obj\Debug\netcoreapp3.1\TicTacToe.csprojAssemblyReference.cache
+C:\Учёба\TicTacToe — копия\obj\Debug\netcoreapp3.1\TicTacToe.AssemblyInfoInputs.cache
+C:\Учёба\TicTacToe — копия\obj\Debug\netcoreapp3.1\TicTacToe.AssemblyInfo.cs
+C:\Учёба\TicTacToe — копия\obj\Debug\netcoreapp3.1\TicTacToe.csproj.CoreCompileInputs.cache
+C:\Учёба\TicTacToe — копия\obj\Debug\netcoreapp3.1\TicTacToe.MvcApplicationPartsAssemblyInfo.cache
+C:\Учёба\TicTacToe — копия\obj\Debug\netcoreapp3.1\TicTacToe.RazorAssemblyInfo.cache
+C:\Учёба\TicTacToe — копия\obj\Debug\netcoreapp3.1\TicTacToe.RazorAssemblyInfo.cs
+C:\Учёба\TicTacToe — копия\obj\Debug\netcoreapp3.1\staticwebassets\TicTacToe.StaticWebAssets.Manifest.cache
+C:\Учёба\TicTacToe — копия\obj\Debug\netcoreapp3.1\staticwebassets\TicTacToe.StaticWebAssets.xml
+C:\Учёба\TicTacToe — копия\obj\Debug\netcoreapp3.1\scopedcss\bundle\TicTacToe.styles.css
+C:\Учёба\TicTacToe — копия\obj\Debug\netcoreapp3.1\TicTacToe.TagHelpers.input.cache
+C:\Учёба\TicTacToe — копия\obj\Debug\netcoreapp3.1\TicTacToe.TagHelpers.output.cache
+C:\Учёба\TicTacToe — копия\obj\Debug\netcoreapp3.1\TicTacToe.RazorCoreGenerate.cache
+C:\Учёба\TicTacToe — копия\obj\Debug\netcoreapp3.1\Razor\Pages\Game.cshtml.g.cs
+C:\Учёба\TicTacToe — копия\obj\Debug\netcoreapp3.1\Razor\Pages\Index.cshtml.g.cs
+C:\Учёба\TicTacToe — копия\obj\Debug\netcoreapp3.1\Razor\Pages\JoinGame.cshtml.g.cs
+C:\Учёба\TicTacToe — копия\obj\Debug\netcoreapp3.1\Razor\Pages\NewGame.cshtml.g.cs
+C:\Учёба\TicTacToe — копия\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_Layout.cshtml.g.cs
+C:\Учёба\TicTacToe — копия\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Учёба\TicTacToe — копия\obj\Debug\netcoreapp3.1\Razor\Pages\Watch.cshtml.g.cs
+C:\Учёба\TicTacToe — копия\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewImports.cshtml.g.cs
+C:\Учёба\TicTacToe — копия\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewStart.cshtml.g.cs
+C:\Учёба\TicTacToe — копия\obj\Debug\netcoreapp3.1\TicTacToe.RazorTargetAssemblyInfo.cache
+C:\Учёба\TicTacToe — копия\obj\Debug\netcoreapp3.1\TicTacToe.RazorTargetAssemblyInfo.cs
+C:\Учёба\TicTacToe — копия\obj\Debug\netcoreapp3.1\TicTacToe.Views.pdb
+C:\Учёба\TicTacToe — копия\obj\Debug\netcoreapp3.1\TicTacToe.csproj.CopyComplete
+C:\Учёба\TicTacToe — копия\obj\Debug\netcoreapp3.1\TicTacToe.dll
+C:\Учёба\TicTacToe — копия\obj\Debug\netcoreapp3.1\TicTacToe.pdb
+C:\Учёба\TicTacToe — копия\obj\Debug\netcoreapp3.1\TicTacToe.genruntimeconfig.cache

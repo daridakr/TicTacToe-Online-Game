@@ -1,0 +1,37 @@
+﻿@page
+@model JoinModel
+@{
+    ViewData["Title"] = "Join game";
+    
+}
+<div class="container">
+    <div class="row">&nbsp;</div>
+    <div class="row">
+        <p id="userName">@Model.userName</p>
+    </div>
+</div>
+    
+    <div class="row">
+        <div class="col-12">
+            <hr />
+        </div>
+    </div>
+    <div class="row">
+        <div class="col-6">
+            <ul id="messagesList"></ul>
+        </div>
+    </div>
+    <div id="roomsList">
+        @foreach (var x in TicTacToe.Hubs.GroupHandler.OpenRooms)
+        {<p>@x<button class="openRooms" name="@x">Join Room</button></p>}
+    </div>
+    <div>
+        <h3>Statistics</h3>
+        <h4>Total games played: @TicTacToe.Hubs.UserHandler.GamesPlayed</h4>
+
+        @foreach (var x in TicTacToe.Hubs.UserHandler.Users)
+        {<p>@x._Name has won @x.Wins times, lost @x.Losses times and has @x.Draws draws</p>}
+    </div>
+
+<script src="~/js/signalr/dist/browser/signalr.js"></script>
+<script src="~/js/joinGameLogic.js"></script>

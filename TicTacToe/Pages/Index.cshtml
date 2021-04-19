@@ -1,0 +1,41 @@
+﻿@page
+@model IndexModel
+@{ ViewData["Title"] = "Main"; }
+<div class="container">
+    <div class="row">&nbsp;</div>
+    <div class="row">
+        <div class="col-3" for="name">Name</div>
+        <div class="col-4">
+            @if (@Model.userName != null)
+            {
+    <p id="userName">@Model.userName</p>}
+            @if (@Model.userName == null)
+            {
+    <input type="text" name="name" formmethod="post" id="userName" />}
+        </div>
+        <div class="col-2"><input type="button" id="createUser" value="Create User" /></div>
+    </div>
+    <div class="row">&nbsp;</div>
+    <main class="px-3">
+        <h1>Tic Tac Toe Online</h1>
+        <p class="lead">Welcome to the game "Tic Tac Toe". First, enter your name. Then connect to the game or create your own to make the first move</p>
+
+        <p class="lead">
+            <input type="button" class="btn btn-lg btn-secondary fw-bold border-white bg-white" id="joinGame" value="Join the game" />
+        </p>
+        <p class="lead">
+            <input type="button" class="btn btn-lg btn-secondary fw-bold border-white bg-white" id="createGame" value="Create new game" />
+        </p>
+    </main>
+</div>
+
+<script>
+        @if(Model.userName != null) {
+            <text>
+            var ifNameFromOtherGame = true;
+            </text>
+        }
+</script>
+
+<script src="~/js/signalr/dist/browser/signalr.js"></script>
+<script src="~/js/indexLogic.js"></script>
